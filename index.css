@@ -4,6 +4,7 @@ body{
     margin-right: auto;
     margin-left: auto;
     size: 0%;
+    overflow-x: hidden;
     
 }
 
